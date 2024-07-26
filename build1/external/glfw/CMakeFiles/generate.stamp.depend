@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+D:/gm/BattleCity/external/glfw/CMake/glfw3Config.cmake.in
+D:/gm/BattleCity/external/glfw/CMakeLists.txt
+D:/run/share/cmake-3.30/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/run/share/cmake-3.30/Modules/CMakeDependentOption.cmake
+D:/run/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake
+D:/run/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake
+D:/run/share/cmake-3.30/Modules/CheckIncludeFile.cmake
+D:/run/share/cmake-3.30/Modules/CheckLibraryExists.cmake
+D:/run/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+D:/run/share/cmake-3.30/Modules/FindPackageMessage.cmake
+D:/run/share/cmake-3.30/Modules/FindThreads.cmake
+D:/run/share/cmake-3.30/Modules/GNUInstallDirs.cmake
+D:/run/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake
+D:/run/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake
